@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Formiik MDM</string>
+
+    <string name="formiik_version">Actual Formiik version</string>
+    <string name="formiik_update">Update Formiik</string>
+
+    <string name="formiik_updated">Formiik is updated</string>
+
+    <string name="toggle_off">CheckBox</string>
+    <string name="toggle_on">BlackList</string>
+
+    <string name="formiik_no_installed">Formiik has not been installed</string>
+
+    <string name="blocked_app">Blocked App</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="formiik_version">Version actual de Formiik</string>
+    <string name="formiik_update">Actualizar Formiik</string>
+
+    <string name="formiik_updated">Formiik esta actualizado</string>
+
+    <string name="toggle_off">CheckBox</string>
+    <string name="toggle_on">BlackList</string>
+
+    <string name="formiik_no_installed">Formiik no ha sido instalado</string>
+
+    <string name="blocked_app">App bloqueda</string>
+
+</resources>
